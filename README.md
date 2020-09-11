@@ -14,7 +14,6 @@ I am currently studying to become a full-stack web developer.
 <img align="left" alt="React" height="32px" src="https://miro.medium.com/max/500/1*cPh7ujRIfcHAy4kW2ADGOw.png" />
 <img align="left" alt="MySql" height="36px" src="https://cdn.worldvectorlogo.com/logos/mysql.svg" />
 <img align="left" alt="MongoDB" height="32px" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" />
-<img align="left" alt="Git" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" />
 
 <br/>
 <br/>
