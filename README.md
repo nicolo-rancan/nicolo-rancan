@@ -31,3 +31,7 @@ I am currently studying to become a full-stack web developer.
 [mars]: https://github.com/nicolo-rancan/mars
 [ol]: https://github.com/nicolo-rancan/OverLegend
 [gita]: https://github.com/nicolo-rancan/gamersita-old
+
+![img](https://github-readme-stats.vercel.app/api?username=nicolo-rancan)
+<br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
