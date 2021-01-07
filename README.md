@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolo-rancan&label=Profile%20views&color=0e75b6&style=flat" alt="nicolo-rancan" /> </p>
 
-- 🔭 I’m currently working on **A ton of things**
+- 🔭 I’m currently working on **a ton of things**
 
-- 🌱 I’m currently learning **TypeScript and Vue/React**
+- 🌱 I’m currently learning **TypeScript and React**
 
 - 📫 How to reach me **nicolo.rancan.gm@gmail.com**
 
