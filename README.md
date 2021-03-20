@@ -1,4 +1,7 @@
-<img src="https://raw.githubusercontent.com/nicolo-rancan/nicolo-rancan/master/title.svg" />
+<h1>Hi, hope you enjoy my projects!</h1>
+<p>Contact me if you find any problems or if you need custom stuffs.</p>
+
+<br>
 
 <div style="display:flex;">
 <img align="center" style="margin: auto;" src="https://github-readme-stats.vladfrangu.vercel.app/api/?username=nicolo-rancan&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
