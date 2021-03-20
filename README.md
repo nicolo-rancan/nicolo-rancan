@@ -12,9 +12,10 @@
 <br/>
 
 <h2 align="center">Contact me</h2>
-[![twitter](https://img.icons8.com/cute-clipart/64/000000/twitter.png)](https://twitter.com/rnc_nicolo)
-[![instagram](https://img.icons8.com/cute-clipart/64/000000/instagram-new.png)](https://www.instagram.com/nicolo_rancan/)
-[![gmail](https://img.icons8.com/cute-clipart/64/000000/email.png)](mailto:nicolo.rancan.gm@gmail.com)
+
+<a src="https://twitter.com/rnc_nicolo"><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" /></a>
+<a src="https://www.instagram.com/nicolo_rancan/"><img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" /></a>
+<a src="mailto:nicolo.rancan.gm@gmail.com"><img src="https://img.icons8.com/cute-clipart/64/000000/email.png" /></a>
 
 <br/>
 
