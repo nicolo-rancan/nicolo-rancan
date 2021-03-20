@@ -1,29 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nicolò Rancan</h1>
-<h3 align="center">I'm a full-stack web developer, that span over many languages</h3>
-
-<br />
-
-- ⚔️ I’m currently working at **OverLegend Network**
-
-- 📚 I’m currently learning **TypeScript and React**
-
-- 📫 How to reach me **nicolo.rancan.gm@gmail.com**
-
-<br/>
-
-<h2 align="center">Contact me</h2>
-
-
-
-<div align="center">
-- <img src="https://img.icons8.com/fluent/24/000000/discord-logo.png"/>: Axeros#0903
-- <img src="https://img.icons8.com/fluent/24/000000/twitter.png"/>: [`rnc_nicolo`][Twitter]
-- <img src="https://img.icons8.com/fluent/24/000000/instagram-new.png"/>: [`nicolo_rancan`][Instagram]
-- <img src="https://img.icons8.com/color/24/000000/gmail--v1.png"/>: nicolo.rancan.gm@gmail.com
-</div>
-
-<br/>
-
+<img src="https://raw.githubusercontent.com/nicolo-rancan/nicolo-rancan/master/title.svg" />
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
@@ -34,8 +9,3 @@
     </td>
   </tr>
 </table>
-
-
-[`Twitter`]:               https://twitter.com/rnc_nicolo
-[`Instagram`]:             https://www.instagram.com/nicolo_rancan/
-
