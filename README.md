@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nicolò Rancan</h1>
-<h3 align="center">I'm a future full-stack web developer but right now i'm working at OverLegend, a new minecraft network.</h3>
+<h3 align="center">I'm a full-stack web developer, that span over many languages</h3>
 
 <br />
 
-- 🔭 I’m currently working on **a ton of things**
+- 🔭 I’m currently working on **OverLegend Network**
 
 - 🌱 I’m currently learning **TypeScript and React**
 
