@@ -4,5 +4,5 @@
 <br>
 
 <div style="display: flex;">
-      <img align="center" style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=rancan-nicolo&theme=radical&count_private=true&show_icons=true" />
+      <img align="center" style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=nicolo-rancan&theme=radical&count_private=true&show_icons=true" />
 </div>
