@@ -5,5 +5,5 @@
 
 <div style="display: flex;">
       <img align="center" style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=nicolo-rancan&theme=radical&count_private=true&show_icons=true" />
+      <a href="https://app.daily.dev/nicolorancan"><img src="https://api.daily.dev/devcards/b7e168d64ffa4ad094b085d822a09ba9.png?r=rlt" width="400" alt="Nicolò Rancan's Dev Card"/></a>
 </div>
-<a href="https://app.daily.dev/nicolorancan"><img src="https://api.daily.dev/devcards/b7e168d64ffa4ad094b085d822a09ba9.png?r=rlt" width="400" alt="Nicolò Rancan's Dev Card"/></a>
