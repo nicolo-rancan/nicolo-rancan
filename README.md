@@ -6,7 +6,7 @@
 <div style="display: flex;">
       <img align="top" style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=nicolo-rancan&theme=radical&count_private=true&show_icons=true" />
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/nicolo-rancan/nicolo-rancan/blob/master/devcard.svg" width="400" alt="Dev Card"/></a>
 
 
 </div>
